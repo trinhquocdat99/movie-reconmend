@@ -1,0 +1,11 @@
+.idea --> bo
+data --> ban thu bo thu muc nay xem no co chay khong
+License --> bo
+mobielens.py
+README --> xoa
+recommender.py
+
+.git --> xoa
+requirement
+test.txt
+UI.py
